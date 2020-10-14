@@ -1,13 +1,13 @@
 {
-  "main.css": "/swagat.github.io/static/css/main.24e64811.chunk.css",
-  "main.js": "/swagat.github.io/static/js/main.7c5005e6.chunk.js",
-  "main.js.map": "/swagat.github.io/static/js/main.7c5005e6.chunk.js.map",
-  "runtime~main.js": "/swagat.github.io/static/js/runtime~main.2f5ca1a6.js",
-  "runtime~main.js.map": "/swagat.github.io/static/js/runtime~main.2f5ca1a6.js.map",
-  "static/js/2.b56d0cd8.chunk.js": "/swagat.github.io/static/js/2.b56d0cd8.chunk.js",
-  "static/js/2.b56d0cd8.chunk.js.map": "/swagat.github.io/static/js/2.b56d0cd8.chunk.js.map",
-  "index.html": "/swagat.github.io/index.html",
-  "precache-manifest.123aa3e92b615e57a0b43af63a27c35c.js": "/swagat.github.io/precache-manifest.123aa3e92b615e57a0b43af63a27c35c.js",
-  "service-worker.js": "/swagat.github.io/service-worker.js",
-  "static/css/main.24e64811.chunk.css.map": "/swagat.github.io/static/css/main.24e64811.chunk.css.map"
+  "main.css": "/portfolio/static/css/main.24e64811.chunk.css",
+  "main.js": "/portfolio/static/js/main.2b49118b.chunk.js",
+  "main.js.map": "/portfolio/static/js/main.2b49118b.chunk.js.map",
+  "runtime~main.js": "/portfolio/static/js/runtime~main.f308c8e6.js",
+  "runtime~main.js.map": "/portfolio/static/js/runtime~main.f308c8e6.js.map",
+  "static/js/2.b56d0cd8.chunk.js": "/portfolio/static/js/2.b56d0cd8.chunk.js",
+  "static/js/2.b56d0cd8.chunk.js.map": "/portfolio/static/js/2.b56d0cd8.chunk.js.map",
+  "index.html": "/portfolio/index.html",
+  "precache-manifest.ce3e9453d778ddb2c1d429622a8d3074.js": "/portfolio/precache-manifest.ce3e9453d778ddb2c1d429622a8d3074.js",
+  "service-worker.js": "/portfolio/service-worker.js",
+  "static/css/main.24e64811.chunk.css.map": "/portfolio/static/css/main.24e64811.chunk.css.map"
 }
