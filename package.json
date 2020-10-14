@@ -1,7 +1,7 @@
-{
+{"homepage": "https://SwagatRanjit84.github.io/swagat.github.io",
   "name": "portfolio",
   "version": "0.1.0",
-  "homepage": "https://ranjit858084.000webhostapp.com",
+  
   "private": true,
   "dependencies": {
     "@types/jest": "24.0.11",
@@ -16,6 +16,8 @@
     "typescript": "3.4.1"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
